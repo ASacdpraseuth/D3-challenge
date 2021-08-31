@@ -1,7 +1,7 @@
 ## Getting it to run
 1. Clone or download zip of repo
 
-2. Open main directory in command line
+2. Open D3_data_journalism in command line
 
 3. Run local webserver
 ```
