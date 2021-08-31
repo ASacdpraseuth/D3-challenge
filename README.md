@@ -1,3 +1,19 @@
+## Getting it to run
+1. Clone or download zip of repo
+
+2. Open main directory in command line
+
+3. Run local webserver
+```
+python -m http.server
+```
+
+4. Open browser and go to link provided
+
+note: Link will most likely be 'localhost:5000' or 'localhost:8000'
+
+---
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
